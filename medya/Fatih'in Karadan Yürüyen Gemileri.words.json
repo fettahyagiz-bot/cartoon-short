@@ -1,0 +1,512 @@
+[
+  {
+    "word": "Fatih",
+    "start": 0.0,
+    "end": 0.5
+  },
+  {
+    "word": "72",
+    "start": 0.5,
+    "end": 1.04
+  },
+  {
+    "word": "gemiyi",
+    "start": 1.04,
+    "end": 1.64
+  },
+  {
+    "word": "karadan",
+    "start": 1.64,
+    "end": 2.06
+  },
+  {
+    "word": "yürüttü",
+    "start": 2.06,
+    "end": 2.54
+  },
+  {
+    "word": "ama",
+    "start": 2.54,
+    "end": 2.98
+  },
+  {
+    "word": "asıl",
+    "start": 2.98,
+    "end": 3.46
+  },
+  {
+    "word": "plan",
+    "start": 3.46,
+    "end": 3.72
+  },
+  {
+    "word": "farklıydı.",
+    "start": 3.72,
+    "end": 4.44
+  },
+  {
+    "word": "Yıl",
+    "start": 4.96,
+    "end": 5.24
+  },
+  {
+    "word": "1453",
+    "start": 5.24,
+    "end": 6.22
+  },
+  {
+    "word": "İstanbul",
+    "start": 6.22,
+    "end": 6.88
+  },
+  {
+    "word": "kuşatması",
+    "start": 6.88,
+    "end": 7.52
+  },
+  {
+    "word": "tıkandı.",
+    "start": 7.52,
+    "end": 8.44
+  },
+  {
+    "word": "Hal",
+    "start": 8.48,
+    "end": 8.72
+  },
+  {
+    "word": "için",
+    "start": 8.72,
+    "end": 8.96
+  },
+  {
+    "word": "girişine",
+    "start": 8.96,
+    "end": 9.48
+  },
+  {
+    "word": "Bizans",
+    "start": 9.48,
+    "end": 10.02
+  },
+  {
+    "word": "koca",
+    "start": 10.02,
+    "end": 10.38
+  },
+  {
+    "word": "bir",
+    "start": 10.38,
+    "end": 10.52
+  },
+  {
+    "word": "zincir",
+    "start": 10.52,
+    "end": 10.86
+  },
+  {
+    "word": "gelmişti.",
+    "start": 10.86,
+    "end": 11.4
+  },
+  {
+    "word": "Osmanlı",
+    "start": 11.9,
+    "end": 12.4
+  },
+  {
+    "word": "donanması",
+    "start": 12.4,
+    "end": 12.9
+  },
+  {
+    "word": "içeri",
+    "start": 12.9,
+    "end": 13.22
+  },
+  {
+    "word": "giremiyordu.",
+    "start": 13.22,
+    "end": 13.82
+  },
+  {
+    "word": "21",
+    "start": 14.38,
+    "end": 14.7
+  },
+  {
+    "word": "yaşındaki",
+    "start": 14.7,
+    "end": 15.36
+  },
+  {
+    "word": "Fatih",
+    "start": 15.36,
+    "end": 15.9
+  },
+  {
+    "word": "1",
+    "start": 15.9,
+    "end": 16.44
+  },
+  {
+    "word": "gece",
+    "start": 16.44,
+    "end": 16.68
+  },
+  {
+    "word": "haritaya",
+    "start": 16.68,
+    "end": 17.14
+  },
+  {
+    "word": "baktı",
+    "start": 17.14,
+    "end": 17.56
+  },
+  {
+    "word": "ve",
+    "start": 17.56,
+    "end": 18.02
+  },
+  {
+    "word": "imkansız",
+    "start": 18.02,
+    "end": 18.7
+  },
+  {
+    "word": "bir",
+    "start": 18.7,
+    "end": 18.84
+  },
+  {
+    "word": "emir",
+    "start": 18.84,
+    "end": 19.12
+  },
+  {
+    "word": "verdi.",
+    "start": 19.12,
+    "end": 19.38
+  },
+  {
+    "word": "Gemiler",
+    "start": 19.94,
+    "end": 20.4
+  },
+  {
+    "word": "karadan",
+    "start": 20.4,
+    "end": 20.96
+  },
+  {
+    "word": "geçecek.",
+    "start": 20.96,
+    "end": 21.44
+  },
+  {
+    "word": "Galata",
+    "start": 21.92,
+    "end": 22.32
+  },
+  {
+    "word": "sırtlarına",
+    "start": 22.32,
+    "end": 22.88
+  },
+  {
+    "word": "kütükler",
+    "start": 22.88,
+    "end": 23.36
+  },
+  {
+    "word": "döşendi.",
+    "start": 23.36,
+    "end": 23.76
+  },
+  {
+    "word": "İç",
+    "start": 24.36,
+    "end": 24.58
+  },
+  {
+    "word": "yağıyla",
+    "start": 24.58,
+    "end": 25.02
+  },
+  {
+    "word": "yağlandı.",
+    "start": 25.02,
+    "end": 25.6
+  },
+  {
+    "word": "Bir",
+    "start": 25.6,
+    "end": 26.26
+  },
+  {
+    "word": "gece",
+    "start": 26.26,
+    "end": 26.46
+  },
+  {
+    "word": "içinde",
+    "start": 26.46,
+    "end": 26.88
+  },
+  {
+    "word": "72",
+    "start": 26.88,
+    "end": 27.66
+  },
+  {
+    "word": "parça",
+    "start": 27.66,
+    "end": 28.34
+  },
+  {
+    "word": "gemi",
+    "start": 28.34,
+    "end": 28.82
+  },
+  {
+    "word": "tepeyi",
+    "start": 28.82,
+    "end": 29.54
+  },
+  {
+    "word": "aşıp",
+    "start": 29.54,
+    "end": 29.86
+  },
+  {
+    "word": "Hal",
+    "start": 29.86,
+    "end": 30.04
+  },
+  {
+    "word": "içe",
+    "start": 30.04,
+    "end": 30.26
+  },
+  {
+    "word": "indirildi.",
+    "start": 30.26,
+    "end": 30.78
+  },
+  {
+    "word": "Ama",
+    "start": 31.12,
+    "end": 31.32
+  },
+  {
+    "word": "asıl",
+    "start": 31.32,
+    "end": 31.7
+  },
+  {
+    "word": "amaç",
+    "start": 31.7,
+    "end": 32.04
+  },
+  {
+    "word": "saldırı",
+    "start": 32.04,
+    "end": 32.54
+  },
+  {
+    "word": "değildi.",
+    "start": 32.54,
+    "end": 32.94
+  },
+  {
+    "word": "Bizansın",
+    "start": 33.42,
+    "end": 33.94
+  },
+  {
+    "word": "dikkatini",
+    "start": 33.94,
+    "end": 34.44
+  },
+  {
+    "word": "bölmek,",
+    "start": 34.44,
+    "end": 34.84
+  },
+  {
+    "word": "surlardaki",
+    "start": 35.22,
+    "end": 35.78
+  },
+  {
+    "word": "askeriye",
+    "start": 35.78,
+    "end": 36.28
+  },
+  {
+    "word": "azaltmaktı.",
+    "start": 36.28,
+    "end": 36.98
+  },
+  {
+    "word": "Sabah",
+    "start": 37.44,
+    "end": 37.86
+  },
+  {
+    "word": "Rumlar",
+    "start": 37.86,
+    "end": 38.22
+  },
+  {
+    "word": "Hal",
+    "start": 38.22,
+    "end": 38.4
+  },
+  {
+    "word": "içte",
+    "start": 38.4,
+    "end": 38.72
+  },
+  {
+    "word": "Osmanlı",
+    "start": 38.72,
+    "end": 39.4
+  },
+  {
+    "word": "sancağını",
+    "start": 39.4,
+    "end": 39.9
+  },
+  {
+    "word": "görünce",
+    "start": 39.9,
+    "end": 40.32
+  },
+  {
+    "word": "panikledi,",
+    "start": 40.32,
+    "end": 40.98
+  },
+  {
+    "word": "savunma",
+    "start": 41.24,
+    "end": 41.66
+  },
+  {
+    "word": "dağıldı.",
+    "start": 41.66,
+    "end": 42.14
+  },
+  {
+    "word": "Bu",
+    "start": 42.72,
+    "end": 42.92
+  },
+  {
+    "word": "plan",
+    "start": 42.92,
+    "end": 43.16
+  },
+  {
+    "word": "Fatih",
+    "start": 43.16,
+    "end": 43.94
+  },
+  {
+    "word": "'in",
+    "start": 43.94,
+    "end": 44.08
+  },
+  {
+    "word": "kendi",
+    "start": 44.08,
+    "end": 44.34
+  },
+  {
+    "word": "defterinde",
+    "start": 44.34,
+    "end": 44.96
+  },
+  {
+    "word": "çizimiyle",
+    "start": 44.96,
+    "end": 45.48
+  },
+  {
+    "word": "bulunuyor.",
+    "start": 45.48,
+    "end": 45.94
+  },
+  {
+    "word": "Peki",
+    "start": 46.46,
+    "end": 46.72
+  },
+  {
+    "word": "fikri",
+    "start": 46.72,
+    "end": 47.34
+  },
+  {
+    "word": "ona",
+    "start": 47.34,
+    "end": 47.5
+  },
+  {
+    "word": "ilk",
+    "start": 47.5,
+    "end": 47.9
+  },
+  {
+    "word": "kim",
+    "start": 47.9,
+    "end": 48.18
+  },
+  {
+    "word": "fısıldadı?",
+    "start": 48.18,
+    "end": 48.8
+  },
+  {
+    "word": "Venedikli",
+    "start": 49.18,
+    "end": 49.62
+  },
+  {
+    "word": "mühendis",
+    "start": 49.62,
+    "end": 50.08
+  },
+  {
+    "word": "mi?",
+    "start": 50.08,
+    "end": 50.24
+  },
+  {
+    "word": "Türk",
+    "start": 50.58,
+    "end": 50.78
+  },
+  {
+    "word": "denizci",
+    "start": 50.78,
+    "end": 51.32
+  },
+  {
+    "word": "mi?",
+    "start": 51.32,
+    "end": 51.44
+  },
+  {
+    "word": "Devamı",
+    "start": 51.9,
+    "end": 52.38
+  },
+  {
+    "word": "yarın.",
+    "start": 52.38,
+    "end": 53.02
+  }
+]

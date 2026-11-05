@@ -1,0 +1,487 @@
+[
+  {
+    "word": "Apartmanımızın",
+    "start": 0.0,
+    "end": 0.98
+  },
+  {
+    "word": "asansörü",
+    "start": 0.98,
+    "end": 1.8
+  },
+  {
+    "word": "her",
+    "start": 1.8,
+    "end": 2.12
+  },
+  {
+    "word": "gece",
+    "start": 2.12,
+    "end": 2.44
+  },
+  {
+    "word": "saat",
+    "start": 2.44,
+    "end": 3.04
+  },
+  {
+    "word": "üçte",
+    "start": 3.04,
+    "end": 3.62
+  },
+  {
+    "word": "zemine",
+    "start": 3.62,
+    "end": 4.06
+  },
+  {
+    "word": "iniyor.",
+    "start": 4.06,
+    "end": 4.52
+  },
+  {
+    "word": "Yeni",
+    "start": 5.08,
+    "end": 5.56
+  },
+  {
+    "word": "taşındığım",
+    "start": 5.56,
+    "end": 6.12
+  },
+  {
+    "word": "apartmanın",
+    "start": 6.12,
+    "end": 6.8
+  },
+  {
+    "word": "beşinci",
+    "start": 6.8,
+    "end": 7.38
+  },
+  {
+    "word": "katındayım.",
+    "start": 7.38,
+    "end": 7.92
+  },
+  {
+    "word": "İlk",
+    "start": 8.68,
+    "end": 8.92
+  },
+  {
+    "word": "gece",
+    "start": 8.92,
+    "end": 9.2
+  },
+  {
+    "word": "saat",
+    "start": 9.2,
+    "end": 9.74
+  },
+  {
+    "word": "üç",
+    "start": 9.74,
+    "end": 10.04
+  },
+  {
+    "word": "sularında",
+    "start": 10.04,
+    "end": 10.7
+  },
+  {
+    "word": "kalkıp",
+    "start": 10.7,
+    "end": 11.54
+  },
+  {
+    "word": "su",
+    "start": 11.54,
+    "end": 11.78
+  },
+  {
+    "word": "içmeye",
+    "start": 11.78,
+    "end": 12.1
+  },
+  {
+    "word": "kalktım.",
+    "start": 12.1,
+    "end": 12.6
+  },
+  {
+    "word": "O",
+    "start": 13.28,
+    "end": 13.52
+  },
+  {
+    "word": "an",
+    "start": 13.52,
+    "end": 13.74
+  },
+  {
+    "word": "asansörün",
+    "start": 13.74,
+    "end": 14.54
+  },
+  {
+    "word": "çalıştığını",
+    "start": 14.54,
+    "end": 15.14
+  },
+  {
+    "word": "duydum.",
+    "start": 15.14,
+    "end": 15.56
+  },
+  {
+    "word": "Dinledim.",
+    "start": 15.94,
+    "end": 16.58
+  },
+  {
+    "word": "Zemine",
+    "start": 17.18,
+    "end": 17.64
+  },
+  {
+    "word": "indi.",
+    "start": 17.64,
+    "end": 18.14
+  },
+  {
+    "word": "Kapı",
+    "start": 18.74,
+    "end": 19.06
+  },
+  {
+    "word": "açıldı.",
+    "start": 19.06,
+    "end": 19.52
+  },
+  {
+    "word": "Kapandı.",
+    "start": 20.02,
+    "end": 20.66
+  },
+  {
+    "word": "Sustu.",
+    "start": 21.1,
+    "end": 21.54
+  },
+  {
+    "word": "Kimse",
+    "start": 22.38,
+    "end": 22.8
+  },
+  {
+    "word": "bilmedi.",
+    "start": 22.8,
+    "end": 23.22
+  },
+  {
+    "word": "Kimse",
+    "start": 23.9,
+    "end": 24.28
+  },
+  {
+    "word": "inmedi.",
+    "start": 24.28,
+    "end": 24.82
+  },
+  {
+    "word": "İkinci",
+    "start": 25.6,
+    "end": 25.94
+  },
+  {
+    "word": "gece",
+    "start": 25.94,
+    "end": 26.14
+  },
+  {
+    "word": "aynı.",
+    "start": 26.14,
+    "end": 26.54
+  },
+  {
+    "word": "Üçüncü",
+    "start": 27.18,
+    "end": 27.56
+  },
+  {
+    "word": "gece",
+    "start": 27.56,
+    "end": 27.72
+  },
+  {
+    "word": "aynı.",
+    "start": 27.72,
+    "end": 28.18
+  },
+  {
+    "word": "Kapıcıya",
+    "start": 28.18,
+    "end": 29.24
+  },
+  {
+    "word": "sordum.",
+    "start": 29.24,
+    "end": 29.52
+  },
+  {
+    "word": "Tuhaf",
+    "start": 29.98,
+    "end": 30.34
+  },
+  {
+    "word": "tuhaf",
+    "start": 30.34,
+    "end": 30.68
+  },
+  {
+    "word": "yüzüme",
+    "start": 30.68,
+    "end": 31.04
+  },
+  {
+    "word": "baktı.",
+    "start": 31.04,
+    "end": 31.4
+  },
+  {
+    "word": "Siz",
+    "start": 31.84,
+    "end": 32.08
+  },
+  {
+    "word": "de",
+    "start": 32.08,
+    "end": 32.28
+  },
+  {
+    "word": "duyuyorsunuz",
+    "start": 32.28,
+    "end": 32.94
+  },
+  {
+    "word": "demek",
+    "start": 32.94,
+    "end": 33.14
+  },
+  {
+    "word": "dedi.",
+    "start": 33.14,
+    "end": 33.72
+  },
+  {
+    "word": "On",
+    "start": 34.26,
+    "end": 34.42
+  },
+  {
+    "word": "dördüncü",
+    "start": 34.42,
+    "end": 35.12
+  },
+  {
+    "word": "gün",
+    "start": 35.12,
+    "end": 35.34
+  },
+  {
+    "word": "artık",
+    "start": 35.34,
+    "end": 35.96
+  },
+  {
+    "word": "dayanamadım.",
+    "start": 35.96,
+    "end": 36.7
+  },
+  {
+    "word": "Saat",
+    "start": 37.34,
+    "end": 37.86
+  },
+  {
+    "word": "üç",
+    "start": 37.86,
+    "end": 38.1
+  },
+  {
+    "word": "olmadan",
+    "start": 38.1,
+    "end": 38.72
+  },
+  {
+    "word": "asansöre",
+    "start": 38.72,
+    "end": 39.72
+  },
+  {
+    "word": "bindim.",
+    "start": 39.72,
+    "end": 40.12
+  },
+  {
+    "word": "Zemine",
+    "start": 40.76,
+    "end": 41.26
+  },
+  {
+    "word": "indim.",
+    "start": 41.26,
+    "end": 41.72
+  },
+  {
+    "word": "Kapıları",
+    "start": 42.18,
+    "end": 42.56
+  },
+  {
+    "word": "açık",
+    "start": 42.56,
+    "end": 42.84
+  },
+  {
+    "word": "bıraktım.",
+    "start": 42.84,
+    "end": 43.42
+  },
+  {
+    "word": "Köşede",
+    "start": 43.8,
+    "end": 44.12
+  },
+  {
+    "word": "bekledim.",
+    "start": 44.12,
+    "end": 44.7
+  },
+  {
+    "word": "Üçü",
+    "start": 45.38,
+    "end": 45.68
+  },
+  {
+    "word": "beş",
+    "start": 45.68,
+    "end": 45.86
+  },
+  {
+    "word": "gece",
+    "start": 45.86,
+    "end": 46.22
+  },
+  {
+    "word": "asansör",
+    "start": 46.22,
+    "end": 47.08
+  },
+  {
+    "word": "tek",
+    "start": 47.08,
+    "end": 47.3
+  },
+  {
+    "word": "başına",
+    "start": 47.3,
+    "end": 47.74
+  },
+  {
+    "word": "açıldı.",
+    "start": 47.74,
+    "end": 48.16
+  },
+  {
+    "word": "Boş",
+    "start": 48.78,
+    "end": 49.14
+  },
+  {
+    "word": "geldi.",
+    "start": 49.14,
+    "end": 49.4
+  },
+  {
+    "word": "Boş",
+    "start": 50.26,
+    "end": 50.54
+  },
+  {
+    "word": "gitti.",
+    "start": 50.54,
+    "end": 50.84
+  },
+  {
+    "word": "Ama",
+    "start": 51.36,
+    "end": 51.56
+  },
+  {
+    "word": "ben",
+    "start": 51.56,
+    "end": 51.88
+  },
+  {
+    "word": "içerdeydim.",
+    "start": 51.88,
+    "end": 52.82
+  },
+  {
+    "word": "Işıklar",
+    "start": 53.46,
+    "end": 53.96
+  },
+  {
+    "word": "sönmüştü.",
+    "start": 53.96,
+    "end": 54.66
+  },
+  {
+    "word": "Düğmeleri",
+    "start": 55.32,
+    "end": 55.7
+  },
+  {
+    "word": "ben",
+    "start": 55.7,
+    "end": 56.04
+  },
+  {
+    "word": "basmıyordum.",
+    "start": 56.04,
+    "end": 56.68
+  },
+  {
+    "word": "Aynaya",
+    "start": 56.68,
+    "end": 58.0
+  },
+  {
+    "word": "baktım.",
+    "start": 58.0,
+    "end": 58.42
+  },
+  {
+    "word": "Arkamda",
+    "start": 58.94,
+    "end": 59.44
+  },
+  {
+    "word": "bir",
+    "start": 59.44,
+    "end": 59.54
+  },
+  {
+    "word": "kadın",
+    "start": 59.54,
+    "end": 59.78
+  },
+  {
+    "word": "duruyordu.",
+    "start": 59.78,
+    "end": 60.36
+  }
+]

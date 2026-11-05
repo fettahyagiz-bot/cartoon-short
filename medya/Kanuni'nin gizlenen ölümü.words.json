@@ -1,0 +1,522 @@
+[
+  {
+    "word": "Kanuni",
+    "start": 0.0,
+    "end": 0.52
+  },
+  {
+    "word": "'nin",
+    "start": 0.52,
+    "end": 0.72
+  },
+  {
+    "word": "ölüm",
+    "start": 0.72,
+    "end": 1.04
+  },
+  {
+    "word": "haberi",
+    "start": 1.04,
+    "end": 1.44
+  },
+  {
+    "word": "tam",
+    "start": 1.44,
+    "end": 1.78
+  },
+  {
+    "word": "48",
+    "start": 1.78,
+    "end": 2.1
+  },
+  {
+    "word": "gün",
+    "start": 2.1,
+    "end": 2.54
+  },
+  {
+    "word": "gizlendi.",
+    "start": 2.54,
+    "end": 3.04
+  },
+  {
+    "word": "Yıl",
+    "start": 3.64,
+    "end": 3.88
+  },
+  {
+    "word": "1566,",
+    "start": 3.88,
+    "end": 4.84
+  },
+  {
+    "word": "Siget",
+    "start": 5.38,
+    "end": 5.62
+  },
+  {
+    "word": "Varkalesi",
+    "start": 5.62,
+    "end": 6.22
+  },
+  {
+    "word": "önündeyiz.",
+    "start": 6.22,
+    "end": 6.8
+  },
+  {
+    "word": "Kanuni",
+    "start": 7.24,
+    "end": 7.64
+  },
+  {
+    "word": "Sultan",
+    "start": 7.64,
+    "end": 7.92
+  },
+  {
+    "word": "Süleyman",
+    "start": 7.92,
+    "end": 8.46
+  },
+  {
+    "word": "72",
+    "start": 8.46,
+    "end": 8.94
+  },
+  {
+    "word": "yaşında",
+    "start": 8.94,
+    "end": 9.58
+  },
+  {
+    "word": "hasta",
+    "start": 9.58,
+    "end": 10.14
+  },
+  {
+    "word": "Bitkin.",
+    "start": 10.14,
+    "end": 10.82
+  },
+  {
+    "word": "Sefer",
+    "start": 11.26,
+    "end": 11.7
+  },
+  {
+    "word": "çadırında",
+    "start": 11.7,
+    "end": 12.26
+  },
+  {
+    "word": "bir",
+    "start": 12.26,
+    "end": 12.64
+  },
+  {
+    "word": "gece",
+    "start": 12.64,
+    "end": 12.86
+  },
+  {
+    "word": "sessizce",
+    "start": 12.86,
+    "end": 13.54
+  },
+  {
+    "word": "vefat",
+    "start": 13.54,
+    "end": 13.84
+  },
+  {
+    "word": "ediyor.",
+    "start": 13.84,
+    "end": 14.12
+  },
+  {
+    "word": "Ama",
+    "start": 14.84,
+    "end": 15.06
+  },
+  {
+    "word": "Sadrazam",
+    "start": 15.06,
+    "end": 15.7
+  },
+  {
+    "word": "Sokollu",
+    "start": 15.7,
+    "end": 16.2
+  },
+  {
+    "word": "Mehmet",
+    "start": 16.2,
+    "end": 16.52
+  },
+  {
+    "word": "Paşa",
+    "start": 16.52,
+    "end": 16.8
+  },
+  {
+    "word": "büyük",
+    "start": 16.8,
+    "end": 17.42
+  },
+  {
+    "word": "bir",
+    "start": 17.42,
+    "end": 17.66
+  },
+  {
+    "word": "karar",
+    "start": 17.66,
+    "end": 18.04
+  },
+  {
+    "word": "veriyor.",
+    "start": 18.04,
+    "end": 18.36
+  },
+  {
+    "word": "Ordu",
+    "start": 19.1,
+    "end": 19.44
+  },
+  {
+    "word": "dağılmasın",
+    "start": 19.44,
+    "end": 20.1
+  },
+  {
+    "word": "diye",
+    "start": 20.1,
+    "end": 20.26
+  },
+  {
+    "word": "ölüm",
+    "start": 20.26,
+    "end": 20.78
+  },
+  {
+    "word": "haberi",
+    "start": 20.78,
+    "end": 21.1
+  },
+  {
+    "word": "saklanacak.",
+    "start": 21.1,
+    "end": 21.64
+  },
+  {
+    "word": "Adişah",
+    "start": 22.14,
+    "end": 22.76
+  },
+  {
+    "word": "'ın",
+    "start": 22.76,
+    "end": 22.9
+  },
+  {
+    "word": "naşı",
+    "start": 22.9,
+    "end": 23.3
+  },
+  {
+    "word": "tahdit",
+    "start": 23.3,
+    "end": 23.64
+  },
+  {
+    "word": "ediliyor,",
+    "start": 23.64,
+    "end": 24.06
+  },
+  {
+    "word": "tahtına",
+    "start": 24.4,
+    "end": 24.82
+  },
+  {
+    "word": "oturtuluyor.",
+    "start": 24.82,
+    "end": 25.52
+  },
+  {
+    "word": "Askerler",
+    "start": 25.84,
+    "end": 26.42
+  },
+  {
+    "word": "her",
+    "start": 26.42,
+    "end": 26.78
+  },
+  {
+    "word": "sabah",
+    "start": 26.78,
+    "end": 27.16
+  },
+  {
+    "word": "onu",
+    "start": 27.16,
+    "end": 27.42
+  },
+  {
+    "word": "uzaktan",
+    "start": 27.42,
+    "end": 27.98
+  },
+  {
+    "word": "görüyor,",
+    "start": 27.98,
+    "end": 28.38
+  },
+  {
+    "word": "selamlıyor.",
+    "start": 28.68,
+    "end": 29.24
+  },
+  {
+    "word": "Fermanlar",
+    "start": 29.24,
+    "end": 30.44
+  },
+  {
+    "word": "hala",
+    "start": 30.44,
+    "end": 31.12
+  },
+  {
+    "word": "onun",
+    "start": 31.12,
+    "end": 31.3
+  },
+  {
+    "word": "mührüyle",
+    "start": 31.3,
+    "end": 31.92
+  },
+  {
+    "word": "çıkıyor.",
+    "start": 31.92,
+    "end": 32.28
+  },
+  {
+    "word": "48",
+    "start": 32.88,
+    "end": 33.18
+  },
+  {
+    "word": "gün",
+    "start": 33.18,
+    "end": 33.7
+  },
+  {
+    "word": "boyunca",
+    "start": 33.7,
+    "end": 34.24
+  },
+  {
+    "word": "koca",
+    "start": 34.24,
+    "end": 34.72
+  },
+  {
+    "word": "bir",
+    "start": 34.72,
+    "end": 34.88
+  },
+  {
+    "word": "imparatorluk,",
+    "start": 34.88,
+    "end": 35.68
+  },
+  {
+    "word": "ölü",
+    "start": 35.9,
+    "end": 36.16
+  },
+  {
+    "word": "bir",
+    "start": 36.16,
+    "end": 36.28
+  },
+  {
+    "word": "padişahın",
+    "start": 36.28,
+    "end": 37.0
+  },
+  {
+    "word": "emrinde",
+    "start": 37.0,
+    "end": 37.44
+  },
+  {
+    "word": "savaşıyor.",
+    "start": 37.44,
+    "end": 37.96
+  },
+  {
+    "word": "Kale",
+    "start": 38.32,
+    "end": 38.64
+  },
+  {
+    "word": "düşüyor,",
+    "start": 38.64,
+    "end": 39.08
+  },
+  {
+    "word": "zafer",
+    "start": 39.4,
+    "end": 39.7
+  },
+  {
+    "word": "kazanılıyor.",
+    "start": 39.7,
+    "end": 40.32
+  },
+  {
+    "word": "Hekim",
+    "start": 40.8,
+    "end": 41.14
+  },
+  {
+    "word": "Kasım",
+    "start": 41.14,
+    "end": 41.62
+  },
+  {
+    "word": "Ağ",
+    "start": 41.62,
+    "end": 41.8
+  },
+  {
+    "word": "'nın",
+    "start": 41.8,
+    "end": 41.9
+  },
+  {
+    "word": "notları",
+    "start": 41.9,
+    "end": 42.38
+  },
+  {
+    "word": "bugün",
+    "start": 42.38,
+    "end": 42.82
+  },
+  {
+    "word": "hala",
+    "start": 42.82,
+    "end": 43.32
+  },
+  {
+    "word": "arşivde",
+    "start": 43.32,
+    "end": 43.92
+  },
+  {
+    "word": "duruyor.",
+    "start": 43.92,
+    "end": 44.24
+  },
+  {
+    "word": "Ancak",
+    "start": 44.8,
+    "end": 45.26
+  },
+  {
+    "word": "Şehzade",
+    "start": 45.26,
+    "end": 45.86
+  },
+  {
+    "word": "Selim",
+    "start": 45.86,
+    "end": 46.28
+  },
+  {
+    "word": "İstanbul",
+    "start": 46.28,
+    "end": 46.78
+  },
+  {
+    "word": "'a",
+    "start": 46.78,
+    "end": 47.06
+  },
+  {
+    "word": "ulaştığında",
+    "start": 47.06,
+    "end": 47.76
+  },
+  {
+    "word": "hakikat",
+    "start": 47.76,
+    "end": 48.32
+  },
+  {
+    "word": "açıklanıyor.",
+    "start": 48.32,
+    "end": 48.88
+  },
+  {
+    "word": "Peki",
+    "start": 49.4,
+    "end": 49.64
+  },
+  {
+    "word": "Sokollu",
+    "start": 49.64,
+    "end": 50.36
+  },
+  {
+    "word": "bu",
+    "start": 50.36,
+    "end": 50.46
+  },
+  {
+    "word": "sırrı",
+    "start": 50.46,
+    "end": 50.82
+  },
+  {
+    "word": "kaç",
+    "start": 50.82,
+    "end": 51.02
+  },
+  {
+    "word": "kişiye",
+    "start": 51.02,
+    "end": 51.36
+  },
+  {
+    "word": "anlattı,",
+    "start": 51.36,
+    "end": 51.92
+  },
+  {
+    "word": "haber",
+    "start": 52.12,
+    "end": 52.28
+  },
+  {
+    "word": "nasılsızdı?",
+    "start": 52.28,
+    "end": 53.04
+  },
+  {
+    "word": "Devamı",
+    "start": 53.5,
+    "end": 53.9
+  },
+  {
+    "word": "yarın.",
+    "start": 53.9,
+    "end": 54.24
+  }
+]
