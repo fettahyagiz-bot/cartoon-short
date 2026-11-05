@@ -258,6 +258,15 @@ const CAMS: Record<number, Key[]> = {
     { f: 1890, dur: 30, s: S15b }, // centred on 1905 ("best drilled")
     { f: 1932, cut: true, s: S15c }, // crane pull-out on its own curved path, starts where S15b is (fastest ~1978, whoosh at 1962 mid-acceleration)
   ],
+  16: [
+    { f: 2025, s: S16a },
+    { f: 2085, dur: 60, s: S16b },
+    { f: 2165, dur: 60, s: S16c },
+  ],
+  17: [
+    { f: 2265, s: S17a },
+    { f: 2340, dur: 60, s: S17b },
+  ],
 };
 CAMS[10] = CAMS[9];
 

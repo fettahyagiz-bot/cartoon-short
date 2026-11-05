@@ -79,7 +79,7 @@ edit(B + "lights.ts",
      'export const LIGHTS: Record<"day" | "golden", LightPreset> = {',
      'export const LIGHTS: Record<"day" | "golden" | "night", LightPreset> = {')
 edit(B + "lights.ts",
-     '''    sunCol: "#ffab5e", sunI: 5.5, sky: "#d8b0b8", ground: "#8a6a60", hemiI: 0.55,
+     '''    sunCol: "#ffab5e", sunI: 5.5, sky: "#d8b0b8", ground: "#8a6a60", hemiI: 0.5,
     bias: -0.0006, normalBias: 0.03,
   },
 };''',

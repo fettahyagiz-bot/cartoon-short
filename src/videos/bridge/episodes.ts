@@ -9,7 +9,7 @@ export type EpisodePreset = { topic: string; shots: number[]; segLen: number };
 export const EPISODE_PRESETS: Record<string, EpisodePreset> = {
   tarih: { topic: "tarih", shots: [1, 2, 3, 6, 15, 14], segLen: 240 },
   kıssa: { topic: "kıssa", shots: [2, 15, 6, 5], segLen: 240 },
-  korku: { topic: "korku", shots: [12, 11, 7, 13], segLen: 240 },
+  korku: { topic: "korku", shots: [16, 17, 12, 11], segLen: 240 }, // night-first (16/17), golden fallbacks
 };
 
 export type Seg = { shot: number; start: number; len: number };

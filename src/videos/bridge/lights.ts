@@ -60,4 +60,12 @@ export const LOOK: Record<"day" | "golden", WorldLook> = {
     bounce: [0.04, 0.02, 0.0],
     sat: 1.1,
   },
+  night: {
+    // moonlit night: deep blue horizon fading to near-black, cool water glints
+    sky: { c: ["#1a2742", "#141d33", "#0d1526", "#080d1a", "#04060d"], e: [0, 3, 8, 16, 40] },
+    water: { near: "#0d2233", mid: "#0a1a2c", far: "#060d18", crest: "#274a66", trough: "#04080f", glint: "#cfe0ff", shade: [0.3, 0.36, 0.55] },
+    cloud: { lit: "#2c3d5c", mid: "#1d2942", shade: "#111828" },
+    bounce: [0.01, 0.015, 0.03],
+    sat: 0.85,
+  },
 };

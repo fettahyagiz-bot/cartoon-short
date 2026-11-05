@@ -36,7 +36,7 @@ EOF
 )"
 echo "== bölüm: $EP | kare: $D | mod: $MODE =="
 OUT="$PROJ/out/${EP}-${MODE}.mp4"
-npx remotion render src/Root.tsx EpisodeShort "$OUT" --frames="0-$((D - 1))" --props="$(cat /tmp/ep-props.json)" --timeout=600000 --overwrite 2>&1 | tee "/tmp/ep-${EP}.log"
+npx remotion render src/Root.tsx EpisodeShort "$OUT" --frames="0-${EP_LAST:-$((D - 1))}" --props="$(cat /tmp/ep-props.json)" --timeout=600000 --overwrite 2>&1 | tee "/tmp/ep-${EP}.log"
 echo "== ffprobe =="
 ffprobe -hide_banner "$OUT" 2>&1 | grep -E "Duration|Stream"
 ls -lh "$OUT"
