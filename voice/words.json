@@ -1,0 +1,657 @@
+[
+ {
+  "word": "Küçük",
+  "start": 0.1,
+  "end": 0.38
+ },
+ {
+  "word": "bir",
+  "start": 0.38,
+  "end": 0.49
+ },
+ {
+  "word": "kasabanın",
+  "start": 0.49,
+  "end": 1.01
+ },
+ {
+  "word": "ortasında",
+  "start": 1.04,
+  "end": 1.7
+ },
+ {
+  "word": "yaşlı",
+  "start": 1.93,
+  "end": 2.26
+ },
+ {
+  "word": "bir",
+  "start": 2.26,
+  "end": 2.35
+ },
+ {
+  "word": "taş",
+  "start": 2.36,
+  "end": 2.64
+ },
+ {
+  "word": "köprü",
+  "start": 2.64,
+  "end": 2.96
+ },
+ {
+  "word": "vardı",
+  "start": 2.96,
+  "end": 3.4
+ },
+ {
+  "word": "Her",
+  "start": 4.47,
+  "end": 4.72
+ },
+ {
+  "word": "sabah",
+  "start": 4.74,
+  "end": 5.1
+ },
+ {
+  "word": "gün",
+  "start": 5.11,
+  "end": 5.34
+ },
+ {
+  "word": "doğarken",
+  "start": 5.35,
+  "end": 5.86
+ },
+ {
+  "word": "askerler",
+  "start": 5.88,
+  "end": 6.47
+ },
+ {
+  "word": "köprüden",
+  "start": 6.47,
+  "end": 6.99
+ },
+ {
+  "word": "geçer",
+  "start": 6.99,
+  "end": 7.4
+ },
+ {
+  "word": "adımları",
+  "start": 7.66,
+  "end": 8.1
+ },
+ {
+  "word": "nehrin",
+  "start": 8.1,
+  "end": 8.49
+ },
+ {
+  "word": "sesine",
+  "start": 8.49,
+  "end": 8.84
+ },
+ {
+  "word": "karışırdı",
+  "start": 8.84,
+  "end": 9.46
+ },
+ {
+  "word": "Köprü",
+  "start": 10.64,
+  "end": 10.99
+ },
+ {
+  "word": "yıllardır",
+  "start": 10.99,
+  "end": 11.54
+ },
+ {
+  "word": "aynı",
+  "start": 11.55,
+  "end": 11.84
+ },
+ {
+  "word": "sesi",
+  "start": 11.84,
+  "end": 12.11
+ },
+ {
+  "word": "dinlerdi",
+  "start": 12.11,
+  "end": 12.71
+ },
+ {
+  "word": "su",
+  "start": 12.95,
+  "end": 13.11
+ },
+ {
+  "word": "şırıltısı",
+  "start": 13.11,
+  "end": 13.74
+ },
+ {
+  "word": "rüzgâr",
+  "start": 13.94,
+  "end": 14.34
+ },
+ {
+  "word": "uğultusu",
+  "start": 14.34,
+  "end": 14.84
+ },
+ {
+  "word": "uzak",
+  "start": 15.05,
+  "end": 15.34
+ },
+ {
+  "word": "pazar",
+  "start": 15.35,
+  "end": 15.71
+ },
+ {
+  "word": "gürültüsü",
+  "start": 15.71,
+  "end": 16.3
+ },
+ {
+  "word": "Bir",
+  "start": 17.31,
+  "end": 17.51
+ },
+ {
+  "word": "akşam",
+  "start": 17.51,
+  "end": 18.0
+ },
+ {
+  "word": "nehrin",
+  "start": 18.16,
+  "end": 18.59
+ },
+ {
+  "word": "öte",
+  "start": 18.6,
+  "end": 18.85
+ },
+ {
+  "word": "yanından",
+  "start": 18.85,
+  "end": 19.33
+ },
+ {
+  "word": "bir",
+  "start": 19.32,
+  "end": 19.46
+ },
+ {
+  "word": "ezgi",
+  "start": 19.46,
+  "end": 19.77
+ },
+ {
+  "word": "yükseldi",
+  "start": 19.77,
+  "end": 20.41
+ },
+ {
+  "word": "Genç",
+  "start": 21.48,
+  "end": 21.74
+ },
+ {
+  "word": "bir",
+  "start": 21.79,
+  "end": 21.96
+ },
+ {
+  "word": "kız",
+  "start": 21.98,
+  "end": 22.29
+ },
+ {
+  "word": "çamaşır",
+  "start": 22.35,
+  "end": 22.8
+ },
+ {
+  "word": "yıkarken",
+  "start": 22.8,
+  "end": 23.36
+ },
+ {
+  "word": "şarkı",
+  "start": 23.36,
+  "end": 23.7
+ },
+ {
+  "word": "söylüyordu",
+  "start": 23.7,
+  "end": 24.44
+ },
+ {
+  "word": "Köprü",
+  "start": 25.46,
+  "end": 25.89
+ },
+ {
+  "word": "o",
+  "start": 25.96,
+  "end": 26.12
+ },
+ {
+  "word": "ana",
+  "start": 26.15,
+  "end": 26.38
+ },
+ {
+  "word": "dek",
+  "start": 26.38,
+  "end": 26.59
+ },
+ {
+  "word": "böyle",
+  "start": 26.6,
+  "end": 26.93
+ },
+ {
+  "word": "bir",
+  "start": 26.93,
+  "end": 27.06
+ },
+ {
+  "word": "ses",
+  "start": 27.06,
+  "end": 27.31
+ },
+ {
+  "word": "duymamıştı",
+  "start": 27.31,
+  "end": 27.99
+ },
+ {
+  "word": "Taşları",
+  "start": 29.05,
+  "end": 29.46
+ },
+ {
+  "word": "titredi",
+  "start": 29.46,
+  "end": 29.97
+ },
+ {
+  "word": "kemerleri",
+  "start": 30.05,
+  "end": 30.56
+ },
+ {
+  "word": "ısındı",
+  "start": 30.56,
+  "end": 31.02
+ },
+ {
+  "word": "zincirleri",
+  "start": 31.19,
+  "end": 31.76
+ },
+ {
+  "word": "usulca",
+  "start": 31.76,
+  "end": 32.16
+ },
+ {
+  "word": "şıngırdadı",
+  "start": 32.16,
+  "end": 32.83
+ },
+ {
+  "word": "Ertesi",
+  "start": 33.91,
+  "end": 34.36
+ },
+ {
+  "word": "sabah",
+  "start": 34.36,
+  "end": 34.69
+ },
+ {
+  "word": "askerler",
+  "start": 34.69,
+  "end": 35.3
+ },
+ {
+  "word": "geçerken",
+  "start": 35.3,
+  "end": 35.88
+ },
+ {
+  "word": "köprü",
+  "start": 35.88,
+  "end": 36.21
+ },
+ {
+  "word": "hafifçe",
+  "start": 36.21,
+  "end": 36.62
+ },
+ {
+  "word": "sallandı",
+  "start": 36.62,
+  "end": 37.25
+ },
+ {
+  "word": "herkes",
+  "start": 37.5,
+  "end": 37.92
+ },
+ {
+  "word": "şaşırdı",
+  "start": 37.92,
+  "end": 38.46
+ },
+ {
+  "word": "Günler",
+  "start": 39.54,
+  "end": 39.94
+ },
+ {
+  "word": "geçti",
+  "start": 39.94,
+  "end": 40.4
+ },
+ {
+  "word": "ezgi",
+  "start": 40.62,
+  "end": 40.94
+ },
+ {
+  "word": "her",
+  "start": 40.94,
+  "end": 41.14
+ },
+ {
+  "word": "akşam",
+  "start": 41.14,
+  "end": 41.5
+ },
+ {
+  "word": "döndü",
+  "start": 41.5,
+  "end": 41.89
+ },
+ {
+  "word": "köprü",
+  "start": 42.11,
+  "end": 42.45
+ },
+ {
+  "word": "her",
+  "start": 42.45,
+  "end": 42.68
+ },
+ {
+  "word": "seferinde",
+  "start": 42.67,
+  "end": 43.19
+ },
+ {
+  "word": "biraz",
+  "start": 43.19,
+  "end": 43.52
+ },
+ {
+  "word": "daha",
+  "start": 43.52,
+  "end": 43.74
+ },
+ {
+  "word": "dinledi",
+  "start": 43.74,
+  "end": 44.26
+ },
+ {
+  "word": "Sonunda",
+  "start": 45.36,
+  "end": 45.77
+ },
+ {
+  "word": "köprü",
+  "start": 45.77,
+  "end": 46.12
+ },
+ {
+  "word": "anladı",
+  "start": 46.12,
+  "end": 46.58
+ },
+ {
+  "word": "yıllardır",
+  "start": 46.91,
+  "end": 47.4
+ },
+ {
+  "word": "taşıdığı",
+  "start": 47.4,
+  "end": 47.88
+ },
+ {
+  "word": "onca",
+  "start": 47.9,
+  "end": 48.21
+ },
+ {
+  "word": "ayak",
+  "start": 48.21,
+  "end": 48.5
+ },
+ {
+  "word": "sesinin",
+  "start": 48.5,
+  "end": 48.91
+ },
+ {
+  "word": "arasında",
+  "start": 48.91,
+  "end": 49.48
+ },
+ {
+  "word": "ilk",
+  "start": 49.74,
+  "end": 49.91
+ },
+ {
+  "word": "kez",
+  "start": 49.95,
+  "end": 50.18
+ },
+ {
+  "word": "biri",
+  "start": 50.17,
+  "end": 50.36
+ },
+ {
+  "word": "ona",
+  "start": 50.36,
+  "end": 50.56
+ },
+ {
+  "word": "şarkı",
+  "start": 50.56,
+  "end": 50.89
+ },
+ {
+  "word": "söylüyordu",
+  "start": 50.89,
+  "end": 51.64
+ },
+ {
+  "word": "O",
+  "start": 53.75,
+  "end": 53.8
+ },
+ {
+  "word": "akşam",
+  "start": 53.86,
+  "end": 54.27
+ },
+ {
+  "word": "rüzgâr",
+  "start": 54.27,
+  "end": 54.7
+ },
+ {
+  "word": "sert",
+  "start": 54.7,
+  "end": 55.0
+ },
+ {
+  "word": "esti",
+  "start": 55.01,
+  "end": 55.43
+ },
+ {
+  "word": "sular",
+  "start": 55.6,
+  "end": 55.95
+ },
+ {
+  "word": "kabardı",
+  "start": 55.95,
+  "end": 56.48
+ },
+ {
+  "word": "ama",
+  "start": 56.75,
+  "end": 56.94
+ },
+ {
+  "word": "ezgi",
+  "start": 56.94,
+  "end": 57.23
+ },
+ {
+  "word": "susmadı",
+  "start": 57.23,
+  "end": 57.76
+ },
+ {
+  "word": "Köprü",
+  "start": 58.85,
+  "end": 59.19
+ },
+ {
+  "word": "dimdik",
+  "start": 59.19,
+  "end": 59.55
+ },
+ {
+  "word": "durdu",
+  "start": 59.56,
+  "end": 60.0
+ },
+ {
+  "word": "ilk",
+  "start": 60.21,
+  "end": 60.4
+ },
+ {
+  "word": "kez",
+  "start": 60.44,
+  "end": 60.67
+ },
+ {
+  "word": "bir",
+  "start": 60.67,
+  "end": 60.77
+ },
+ {
+  "word": "yükü",
+  "start": 60.77,
+  "end": 60.99
+ },
+ {
+  "word": "sevinçle",
+  "start": 60.99,
+  "end": 61.47
+ },
+ {
+  "word": "taşıdı",
+  "start": 61.48,
+  "end": 61.95
+ },
+ {
+  "word": "Yıllar",
+  "start": 63.0,
+  "end": 63.4
+ },
+ {
+  "word": "sonra",
+  "start": 63.4,
+  "end": 63.71
+ },
+ {
+  "word": "kasabalılar",
+  "start": 63.71,
+  "end": 64.38
+ },
+ {
+  "word": "der",
+  "start": 64.38,
+  "end": 64.6
+ },
+ {
+  "word": "ki",
+  "start": 64.61,
+  "end": 64.8
+ },
+ {
+  "word": "köprü",
+  "start": 64.97,
+  "end": 65.32
+ },
+ {
+  "word": "hâlâ",
+  "start": 65.33,
+  "end": 65.74
+ },
+ {
+  "word": "o",
+  "start": 65.83,
+  "end": 65.92
+ },
+ {
+  "word": "şarkıyı",
+  "start": 65.92,
+  "end": 66.39
+ },
+ {
+  "word": "mırıldanır",
+  "start": 66.39,
+  "end": 66.98
+ },
+ {
+  "word": "Dinlersen",
+  "start": 68.04,
+  "end": 68.75
+ },
+ {
+  "word": "taşların",
+  "start": 68.8,
+  "end": 69.29
+ },
+ {
+  "word": "arasından",
+  "start": 69.29,
+  "end": 69.88
+ },
+ {
+  "word": "duyarsın",
+  "start": 69.88,
+  "end": 70.47
+ }
+]
